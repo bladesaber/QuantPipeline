@@ -1,0 +1,7 @@
+./download_data
+cell_cache
+.vscode
+.ipynb_checkpoints
+.env
+.idea
+_*
